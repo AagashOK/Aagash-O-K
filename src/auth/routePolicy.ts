@@ -25,6 +25,7 @@ export const PUBLIC_MARKETING_ROUTE_PREFIXES = [
   "/community",
   "/contact",
   "/benefits",
+  "/hushh-hackathon",
   "/hushh-ai",
   "/kai",
   "/kai-india",

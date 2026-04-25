@@ -358,6 +358,7 @@ function App() {
             <Route path='/developer-docs' element={<DeveloperDocsPage />} />
             <Route path='/metrics' element={<MetricsPage />} />
             <Route path='/metric' element={<Navigate to='/metrics' replace />} />
+            <Route path='/hushh-hackathon' element={<HushhHackathonPage />} />
             <Route path='/hushh-ai' element={<HushhAIPage />} />
             <Route path='/hushh-ai/login' element={<HushhAILoginPage />} />
             <Route path='/hushh-ai/signup' element={<HushhAISignupPage />} />
