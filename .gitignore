@@ -34,3 +34,5 @@ private_keys/
 .pre-commit-cache/
 .gitleaks-report.json
 tmp/
+
+.vite-cache/
